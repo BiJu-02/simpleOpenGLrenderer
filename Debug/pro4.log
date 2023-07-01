@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\dev_ig\test_shiz\opengl_shiz\pro4\headers\app.h(70,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\dev_ig\test_shiz\opengl_shiz\pro4\headers\app.h(71,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\dev_ig\test_shiz\opengl_shiz\pro4\Debug\vc120.pdb'; linking object as if no debug info
+  pro4.vcxproj -> C:\dev_ig\test_shiz\opengl_shiz\pro4\Debug\pro4.exe
